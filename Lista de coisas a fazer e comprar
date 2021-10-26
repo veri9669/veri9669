@@ -1,0 +1,56 @@
+### Hi there 👋
+
+<!--
+**veri9669/veri9669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <!--Use ol para criar lista ordenadas tags <li> para mudar as fortaçoes de contagem type-->
+    <title>TRABALHANDO COM LISTAS</title>
+ <style>
+   body{ 
+background-color: blue;
+   } 
+   </style>
+</head>
+<body>
+  <h1>Trabalhando com listas</h1>
+<h2>Lista Ordenadas</h2>
+<ol>   
+<li>Primeiros vou acordar
+<li>Tomar café</li>
+<li>escovar os dentes</li>
+<li>Tomar banho</li>
+<li>Ir para facudade</li> 
+<li>Almoçar</li>
+<li>Ir para trabalho</li>
+<li>Voltar para casa</li>
+<li>Jantar</li>
+<li>Dormir</li>
+</ol>
+<h2>Listas Não Ordenadas</h2>
+<ul type="circle"> <!--formatações de marcação disc para um ponto circle para um bolinha aberta  square -->
+<li>Pão</li> 
+<li>Leite
+<li>Arroz
+<li>Feijão</li>
+<li>Manteiga</li>
+<li>Tomate</li>
+</ul>
+</body>
+</html>
